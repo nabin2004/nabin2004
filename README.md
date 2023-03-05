@@ -1,5 +1,5 @@
 
-![ailab](https://user-images.githubusercontent.com/107109731/222980146-f4c5ceaf-f97d-43b1-9d86-6a925f947e96.gif)
+
 
 
 
