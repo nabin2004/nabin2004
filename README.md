@@ -1,4 +1,7 @@
-[![MasterHead](https://raw.githubusercontent.com/umittengiz/cdn/main/uploads/greetings.gif)](https://user-images.githubusercontent.com/107109731/222977906-597dc531-80ef-4717-ad57-1b0857f222c4.png)
+![image_processing20191213-6403-1j99nlm](https://user-images.githubusercontent.com/107109731/222979999-6a69afaa-45c2-4f8e-9b8b-ba2aa4fd0ef4.gif)
+
+
+
 <h1 align="center">Hi 👋, I'm Nabin Oli</h1>
 <h3 align="center">A student who is passionate about learning in public; Data Science</h3>
 
