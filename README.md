@@ -7,7 +7,7 @@
 <h3 align="center">A student who is passionate about learning in public; Machine Learning</h3>
 <p align="left"> <a href="https://twitter.com/nawbeanstwt" target="blank"><img src="https://img.shields.io/twitter/follow/nawbeanstwt?logo=twitter&style=for-the-badge" alt="nawbeanstwt" /></a> </p>
 
-<img align="right" alt="Coding" width="200" src="https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/w_2560%2Cc_limit/1CFAeP1I6qiU-ZMb-O4xyOA.gif">
+<img align="right" alt="Coding" width="300" src="https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/w_2560%2Cc_limit/1CFAeP1I6qiU-ZMb-O4xyOA.gif">
 
 
 - 📝 I write articles on [https://hashnode.com/@nabinoli2004](https://hashnode.com/@nabinoli2004)
