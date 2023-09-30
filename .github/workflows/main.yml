@@ -1,27 +1,27 @@
-on: 
-  workflow_dispatch: {}
+name: Daily Commit
+
+on:
   schedule:
-    # Makes commit(s) at 4:30am daily
-    # Change to whatever cron expression you like
     - cron: "30 4 * * *"
 
 jobs:
-  lit-job:
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  commit:
     runs-on: ubuntu-latest
-    name: A job to get you lit
+
     steps:
-      - uses: actions/checkout@v3
-      - name: make commits
-        # Uses GitHub action defined in nabin2004/gitlit
-        uses: nabin2004/gitlit@main
-        with:
-          # Defines the range of number of commits
-          # Change to your desierd lower and upper bound
-          lower-bound: 0
-          upper-bound: 6
-          # Change to your GitHub username
-          user-name: nabin2004
-          # Change to your email used for GitHub account
-          user-email: olinabin2004@gmail.com
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Configure Git
+        run: |
+          git config user.name "nabin2004"
+          git config user.email "olinabin2004@gmail.com"
+
+      - name: Create a new file
+        run: echo "This is an automated commit." >> automated-commit.txt
+
+      - name: Commit changes
+        run: |
+          git add automated-commit.txt
+          git commit -m "Automated daily commit"
+          git push
