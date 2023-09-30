@@ -1,9 +1,9 @@
 on: 
   workflow_dispatch: {}
   schedule:
-    # Makes commit(s) at 9am daily
+    # Makes commit(s) at 4:30am daily
     # Change to whatever cron expression you like
-    - cron: "0 9 * * *"
+    - cron: "30 4 * * *"
 
 jobs:
   lit-job:
