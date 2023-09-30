@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: make commits
-        # Uses GitHub action defined in https://github.com/FredaXin/gitlit
-        uses: FredaXin/gitlit@main
+        # Uses GitHub action defined in nabin2004/gitlit
+        uses: nabin2004/gitlit@main
         with:
           # Defines the range of number of commits
           # Change to your desierd lower and upper bound
