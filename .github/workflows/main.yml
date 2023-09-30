@@ -2,26 +2,24 @@ name: Daily Commit
 
 on:
   schedule:
-    - cron: "0 7 * * *"
+    - cron: "10 10 * * *"
 
 jobs:
   commit:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Configure Git
+      - name: Set up Git
         run: |
-          git config user.name "nabin2004"
-          git config user.email "olinabin2004@gmail.com"
+          git config --global user.email "olinabin2004@gmail.com"
+          git config --global user.name "Nabin Oli"
 
-      - name: Create a new file
-        run: echo "This is an automated commit." >> automated-commit.txt
-
-      - name: Commit changes
+      - name: Make a commit
         run: |
-          git add automated-commit.txt
-          git commit -m "Automated daily commit"
+          echo "$(date)" >> commit.txt
+          git add commit.txt
+          git commit -m "Daily commit $(date)"
           git push
