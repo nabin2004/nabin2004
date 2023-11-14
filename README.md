@@ -10,13 +10,6 @@
 
 
 
-<h5 align="left">Connect with me:</h5>
-<p align="left"> 
-  <a href="https://twitter.com/nabintwt" target="_blank"><img src="https://img.shields.io/twitter/follow/nawbeanstwt?logo=twitter&style=for-the-badge" alt="nawbeanstwt" /></a>
-  <a href="https://www.linkedin.com/in/nabinoli/" target="_blank"><img src="https://img.shields.io/twitter/follow/Nabin Oli?logo=linkedin&style=for-the-badge" alt="nawbeanstwt" /></a>
-</p>
-
-
 
 
 
