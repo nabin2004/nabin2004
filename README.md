@@ -10,8 +10,10 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/nawbeanstwt" target="blank"><img src="https://img.shields.io/twitter/follow/nawbeanstwt?logo=twitter&style=for-the-badge" alt="nawbeanstwt" /></a> </p>
+<h5 align="left">Connect with me:</h5>
+<p align="left"> 
+<a href="https://twitter.com/nawbeanstwt" target="blank"><img src="https://img.shields.io/twitter/follow/nawbeanstwt?logo=twitter&style=for-the-badge" alt="nawbeanstwt" /></a>
+</p>
 
 
 
