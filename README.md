@@ -29,6 +29,6 @@
 - **📚 [Prodigy Pathshala](https://github.com/nabin2004/prodigy-pathshala)** - Khan Academy-like platform with AI-generated videos and content using Manimator
 - **🧩 [DeepBlocks](https://github.com/nabin2004/DeepBlocks)** - Block-based deep learning builder designed for teaching deep learning concepts
 - **⚡  [pydplyr](https://github.com/nabin2004/pydplyr)** - Simplicity and conciseness of dplyr
-- **📘 [DSAwithPython](https://olinabin.com.np/DSA/)** - A site built with Myst markdown and Jupyter books
+- **📘 <a href="https://olinabin.com.np/DSA/" target="_blank" rel="noopener noreferrer">DSAwithPython</a>** — A site built with MyST markdown and Jupyter books
 ![GitHub Contribution Graph](https://ghchart.rshah.org/nabin2004)
 
