@@ -28,7 +28,7 @@
 - **🔥 [PyTork](https://github.com/nabin2004/pytork)** - Minimal deep learning framework built on a micrograd-style autodiff engine for educational purposes
 - **📚 [Prodigy Pathshala](https://github.com/nabin2004/prodigy-pathshala)** - Khan Academy-like platform with AI-generated videos and content using Manimator
 - **🧩 [DeepBlocks](https://github.com/nabin2004/DeepBlocks)** - Block-based deep learning builder designed for teaching deep learning concepts
-- **⚡ [pydplyr](https://github.com/nabin2004/pydplyr)** - Simplicity and conciseness of dplyr
-
+- **⚡  [pydplyr](https://github.com/nabin2004/pydplyr)** - Simplicity and conciseness of dplyr
+- **📘 [DSAwithPython](https://olinabin.com.np/DSA/)** - A site built with Myst markdown and Jupyter books
 ![GitHub Contribution Graph](https://ghchart.rshah.org/nabin2004)
 
