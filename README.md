@@ -19,7 +19,7 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
-## 🚀 Current Projects
+## 🚀 Projects
 
 - **🎬 [Manimator](https://github.com/nabin2004/manimator)** - Manim code generation agentic workflow
 - **💬 [Dialograph](https://github.com/nabin2004/dialograph)** - POC: Framework for building proactive dialogue systems
@@ -28,7 +28,9 @@
 - **🔥 [PyTork](https://github.com/nabin2004/pytork)** - Minimal deep learning framework built on a micrograd-style autodiff engine for educational purposes
 - **📚 [Prodigy Pathshala](https://github.com/nabin2004/prodigy-pathshala)** - Khan Academy-like platform with AI-generated videos and content using Manimator
 - **🧩 [DeepBlocks](https://github.com/nabin2004/DeepBlocks)** - Block-based deep learning builder designed for teaching deep learning concepts
+- **🏆 [SwissKit](https://github.com/nabin2004/SwissKit)** - Modular Kaggle competition framework for rapid ML experimentation, competing and deployment
 - **⚡  [pydplyr](https://github.com/nabin2004/pydplyr)** - Simplicity and conciseness of dplyr
 - **📘 <a href="https://olinabin.com.np/DSA/" target="_blank" rel="noopener noreferrer">DSAwithPython</a>** — A site built with MyST markdown and Jupyter books
 ![GitHub Contribution Graph](https://ghchart.rshah.org/nabin2004)
+- https://github.com/nabin2004/KaggleKit
 
