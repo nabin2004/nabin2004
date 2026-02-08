@@ -19,18 +19,31 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
-## 🚀 Projects
+<h1 align="center">PROJECTS</h1>
 
+## Agentic AI, MLOPs, ML Paper Implementation, Speech Processing, 3D reconstruction, NLP
 - **🎬 [Manimator](https://github.com/nabin2004/manimator)** - Manim code generation agentic workflow
 - **💬 [Dialograph](https://github.com/nabin2004/dialograph)** - POC: Framework for building proactive dialogue systems
 - **🎥 [Animus](https://github.com/nabin2004/animus)** - Agentic Blender-based animation system for autonomous scene and motion generation
 - **🥟 [MomoPedia](https://github.com/nabin2004/MomoPedia)** - Agentic platform for writing, reviewing, and approving articles about Momo around the world
-- **🔥 [PyTork](https://github.com/nabin2004/pytork)** - Minimal deep learning framework built on a micrograd-style autodiff engine for educational purposes
-- **📚 [Prodigy Pathshala](https://github.com/nabin2004/prodigy-pathshala)** - Khan Academy-like platform with AI-generated videos and content using Manimator
+- **🤝 [Agentic AI Interview](https://github.com/nabin2004/agentic_interview)** - AI native hiring agentic workflows for HR built using Google Meet SDK
+- **📄 [PaperTrail](https://github.com/nabin2004/PaperTrail)** - Tracking, comparing, and reasoning over AI research papers from arXiv
+- **🔐 [NetSecMLOps](https://github.com/nabin2004/NetSecMLOps)** - MLOps infrastructure for network security models with automated training, validation, and deployment workflows
+- **⚙️ [Makesense MLOps Pipeline](https://github.com/nabin2004/Makesense-MLOps-Pipeline)** - End-to-end MLOps pipeline with CI/CD, monitoring, and deployment automation
+- **🔥 [PyTwerk](https://github.com/nabin2004/pytork)** - Minimal deep learning framework built on a micrograd-style autodiff engine for educational purposes
 - **🧩 [DeepBlocks](https://github.com/nabin2004/DeepBlocks)** - Block-based deep learning builder designed for teaching deep learning concepts
 - **🏆 [SwissKit](https://github.com/nabin2004/SwissKit)** - Modular Kaggle competition framework for rapid ML experimentation, competing and deployment
-- **⚡  [pydplyr](https://github.com/nabin2004/pydplyr)** - Simplicity and conciseness of dplyr
-- **📘 <a href="https://olinabin.com.np/DSA/" target="_blank" rel="noopener noreferrer">DSAwithPython</a>** — A site built with MyST markdown and Jupyter books
+- **🎤 [SPEECH](https://github.com/nabin2004/SPEECH)** - ASR fine-tuning codescript for Nepali speech-to-text using NVIDIA NeMo framework
+- **⏱️ [Timestamps & CTC Output](https://github.com/nabin2004/timestamps-and-ctc-output)** - Audio timestamp extraction using CTC (Connectionist Temporal Classification) for speech recognition
+- **🗺️ [Nepali Location with SymSpell](https://github.com/nabin2004/Nepali-Location-with-SymSpell-Project)** - Fuzzy search system for Nepali location names using SymSpell spell correction algorithm
+- **⚡  [pydplyr](https://github.com/nabin2004/pydplyr)** - Simplicity and conciseness of dplyr  
+- **🔄 [Swin Transformer](https://github.com/nabin2004/SwinTransformer)** - From-scratch implementation of "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"
+- **👁️ [Vision Transformer](https://github.com/nabin2004/Vision-Transformer)** - PyTorch implementation of the original Vision Transformer (ViT) architecture
+- **💬 [GPT-2 from Scratch](https://github.com/nabin2004/CS224_final_project_GPT2)** - Educational implementation of GPT-2 language model for CS224N final project
+- **📘 <a href="https://olinabin.com.np/DSA/" target="_blank" rel="noopener noreferrer">DSAwithPython</a>** — On progress.
+- 🏔️ [Hanuman3D](https://github.com/nabin2004/hanuman3d) - 3D reconstruction of a Hanuman's Idol using Gaussian Splatting
+
+
+
 ![GitHub Contribution Graph](https://ghchart.rshah.org/nabin2004)
-- https://github.com/nabin2004/KaggleKit
 
