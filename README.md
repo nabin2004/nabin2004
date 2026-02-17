@@ -23,6 +23,7 @@
 
 ## Agentic AI, MLOPs, ML Paper Implementation, Speech Processing, 3D reconstruction, NLP
 - **🎬 [Manimator](https://github.com/nabin2004/manimator)** - Manim code generation agentic workflow
+- **🎯 [MotionMarker](https://github.com/nabin2004/motionmarker)** - A lightweight motion data abstraction layer for Python animations
 - **💬 [Dialograph](https://github.com/nabin2004/dialograph)** - POC: Framework for building proactive dialogue systems
 - **🎥 [Animus](https://github.com/nabin2004/animus)** - Agentic Blender-based animation system for autonomous scene and motion generation
 - **🥟 [MomoPedia](https://github.com/nabin2004/MomoPedia)** - Agentic platform for writing, reviewing, and approving articles about Momo around the world
