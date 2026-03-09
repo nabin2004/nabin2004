@@ -22,6 +22,8 @@
 <h1 align="center">PROJECTS</h1>
 
 ## Agentic AI, MLOPs, ML Paper Implementation, Speech Processing, 3D reconstruction, NLP
+- **🎬 [Dagestan](https://github.com/nabin2004/dagestan)** - Sustained Memory layer for LLM-applications
+- **🎬 [Dagestan](https://github.com/nabin2004/dagestan)** - Sustained Memory layer for LLM-applications
 - **🎬 [Manimator](https://github.com/nabin2004/manimator)** - Manim code generation agentic workflow
 - **🎯 [MotionMarker](https://github.com/nabin2004/motionmarker)** - A lightweight motion data abstraction layer for Python animations
 - **💬 [Dialograph](https://github.com/nabin2004/dialograph)** - POC: Framework for building proactive dialogue systems
@@ -31,7 +33,7 @@
 - **📄 [PaperTrail](https://github.com/nabin2004/PaperTrail)** - Tracking, comparing, and reasoning over AI research papers from arXiv
 - **🔐 [NetSecMLOps](https://github.com/nabin2004/NetSecMLOps)** - MLOps infrastructure for network security models with automated training, validation, and deployment workflows
 - **⚙️ [Makesense MLOps Pipeline](https://github.com/nabin2004/Makesense-MLOps-Pipeline)** - End-to-end MLOps pipeline with CI/CD, monitoring, and deployment automation
-- **🔥 [PyTwerk](https://github.com/nabin2004/pytork)** - Minimal deep learning framework built on a micrograd-style autodiff engine for educational purposes
+- **🔥 [PyTwerk](https://github.com/nabin2004/pytwerk)** - Minimal deep learning framework built on a micrograd-style autodiff engine for educational purposes
 - **🧩 [DeepBlocks](https://github.com/nabin2004/DeepBlocks)** - Block-based deep learning builder designed for teaching deep learning concepts
 - **🏆 [SwissKit](https://github.com/nabin2004/SwissKit)** - Modular Kaggle competition framework for rapid ML experimentation, competing and deployment
 - **🎤 [SPEECH](https://github.com/nabin2004/SPEECH)** - ASR fine-tuning codescript for Nepali speech-to-text using NVIDIA NeMo framework
