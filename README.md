@@ -22,7 +22,7 @@
 <h1 align="center">PROJECTS</h1>
 
 ## Agentic AI, MLOPs, ML Paper Implementation, Speech Processing, 3D reconstruction, NLP
-- **🎬 [Dagestan](https://github.com/nabin2004/dagestan)** - Sustained Memory layer for LLM-applications
+- **💾 [Dagestan](https://github.com/nabin2004/dagestan)** - Sustained Memory layer for LLM-applications
 - **🎬 [Manimator](https://github.com/nabin2004/manimator)** - Manim code generation agentic workflow
 - **🎯 [MotionMarker](https://github.com/nabin2004/motionmarker)** - A lightweight motion data abstraction layer for Python animations
 - **💬 [Dialograph](https://github.com/nabin2004/dialograph)** - POC: Framework for building proactive dialogue systems
