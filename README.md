@@ -25,6 +25,7 @@
 - **💾 [Dagestan](https://github.com/nabin2004/dagestan)** - Sustained Memory layer for LLM-applications
 - **🎬 [Manimator](https://github.com/nabin2004/manimator)** - Manim code generation agentic workflow
 - **🎯 [MotionMarker](https://github.com/nabin2004/motionmarker)** - A lightweight motion data abstraction layer for Python animations
+- **🐂 [ManimLite](https://github.com/nabin2004/ManimLite)** - Lightweight motion graphics for explainers and teaching clips. Built for speed and LLM-friendly code generation. 
 - **💬 [Dialograph](https://github.com/nabin2004/dialograph)** - POC: Framework for building proactive dialogue systems
 - **🎥 [Animus](https://github.com/nabin2004/animus)** - Agentic Blender-based animation system for autonomous scene and motion generation
 - **🥟 [MomoPedia](https://github.com/nabin2004/MomoPedia)** - Agentic platform for writing, reviewing, and approving articles about Momo around the world
@@ -43,7 +44,7 @@
 - **👁️ [Vision Transformer](https://github.com/nabin2004/Vision-Transformer)** - PyTorch implementation of the original Vision Transformer (ViT) architecture
 - **💬 [GPT-2 from Scratch](https://github.com/nabin2004/CS224_final_project_GPT2)** - Educational implementation of GPT-2 language model for CS224N final project
 - **📘 <a href="https://olinabin.com.np/DSA/" target="_blank" rel="noopener noreferrer">DSAwithPython</a>** — On progress.
-- 🏔️ [Hanuman3D](https://github.com/nabin2004/hanuman3d) - 3D reconstruction of a Hanuman's Idol using Gaussian Splatting
+- **🏔️ [Hanuman3D](https://github.com/nabin2004/hanuman3d)** - 3D reconstruction of a Hanuman's Idol using Gaussian Splatting
 
 
 
